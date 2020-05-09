@@ -8,8 +8,6 @@ def tempsParcours(h1, m1, s1, h2, m2, s2):
   return t2-t1
 ```
 
-@[]({"stubs": ["exercice01.py"]})
-
 ?[Que contiennent les variables t1 et t2 ?]
 -[ ] Une distance en mètre
 -[ ] Une distance en kilomètre
