@@ -1,7 +1,6 @@
 # Calcul de distance entre un satellite et son recepteur GPS
 
-This Python template lets you get started quickly with a simple working example. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
-
+Afin d'estimer la distance entre un satellite et un recepteur GPS, la fonction tempsParcours calcul l'écart de temps, en secondes, entre l'heure d'arrivée et l'heure d'envoi du message.
 @[]({"stubs": ["exercice01.py"], "command": "python3 test_universe.py"})
 
 ?[Que contiennent les variables t1 et t2 ?]
