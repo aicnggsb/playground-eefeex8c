@@ -1,7 +1,7 @@
 # Calcul de distance entre un satellite et son recepteur GPS
 
-Afin d'estimer la distance entre un satellite et un recepteur GPS, la fonction tempsParcours calcul l'écart de temps, en secondes, entre l'heure d'arrivée et l'heure d'envoi du message.
-@[]({"stubs": ["exercice01.py"], "command": "python3 test_universe.py"})
+Afin d'estimer la distance entre un satellite et un recepteur GPS, la fonction <i>tempsParcours</i> calcule l'écart de temps, en secondes, entre l'heure d'arrivée et l'heure d'envoi du message.
+@[]({"stubs": ["exercice01.py"]})
 
 ?[Que contiennent les variables t1 et t2 ?]
 -[ ] Une distance en mètre
